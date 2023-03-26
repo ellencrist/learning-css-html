@@ -2,4 +2,4 @@
 
 Challenge Alura -  Coding Encriptador
 
-<a href="https://ibb.co/JzDvd4V"><img src="https://i.ibb.co/wK5SLXV/codificador.png" alt="codificador" border="0"></a>
+<a href="https://uploaddeimagens.com.br/images/004/407/294/original/Encriptador-de-Texto-Alura.png?1679844108"><img src="https://uploaddeimagens.com.br/images/004/407/294/original/Encriptador-de-Texto-Alura.png?1679844108" alt="codificador" border="0"></a>
