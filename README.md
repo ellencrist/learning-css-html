@@ -1,2 +1,2 @@
 # learning-css-html
-Created to document html and css learning, with course and exercise projects.
+Created to document front-end learning, with course and exercise projects.
